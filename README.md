@@ -1,1 +1,1 @@
-# Soluciones-numéricas-de-ecuaciones-RDA-que-modelan-medios-excitables-Simulaciones
+# Soluciones numéricas de ecuaciones RDA que modelan medios excitables: Simulaciones
